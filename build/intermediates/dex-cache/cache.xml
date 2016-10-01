@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_2ccb4c50d540c59b21104b57cd702050db08251d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_936ad9dee943cea739e5de95e3636541a36a6dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2a2b94aa4169054bc792a1a143c83816c8f757ee">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_62d53d737f51f0f33dfe798305d782d584193601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_1c18a6af8ffddb783bbbe6845af1076acef66846\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_32ce4c64be19586cd8b558788e3c6ecc770184e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hassan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_91317c4b0195c7ff12bcec156c39271c1b298810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_e00ad1d315d7bd5148a68167d85750082013f939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hassan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_f38e54bf4db0bf13cac5e7242528497e89be6111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hassan\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_c328ed65fede26b108fb2c5ce6507e76de8ac7cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_bfc7c73e782adf3b37437c7681d2f94e16345455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_7b2d12874be9c2ac697e3e6a9109cdc6369a27af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_3faf78f2c1c609e61730ab3bf23404665d22ed89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\0ffice_Work\Delack\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca11112cd4caf8408f930a1a502edad5eec89d86">
+        <dex dex="C:\0ffice_Work\Delack\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1937a552bc258d912413640073a09ac881bc6d41\classes.dex" />
+    </item>
+
+</items>
